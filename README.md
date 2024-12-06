@@ -48,13 +48,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+<!---
 ###
-
 <img align="right" height="246" src="https://media1.tenor.com/m/hs6IuO3pDh8AAAAC/pixel-art.gif"  />
-
 ###
-
+-->
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/K1000KN/K1000KN/output/snake.svg" alt="Snake animation" />
